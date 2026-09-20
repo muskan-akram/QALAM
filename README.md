@@ -1,6 +1,6 @@
 # QALAM
 
-**QR-baBed AI Integrated Library MaAssistant & nagement System**
+**QR-baBed AI Integrated Library Assistant & Management System**
 
 QALAM is a full-stack library management system developed as a **Final Year Project (FYP)**. It combines QR-based book issuing and returning with AI-powered book recommendations and a library assistant.
 
